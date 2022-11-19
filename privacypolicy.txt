@@ -13,8 +13,8 @@ Last updated: 4/22/2022
 "hardware ID": A string that uniquely and consistently identifies a given specific machine or device.
 "IP address" and "IP": Unique string of characters that your device uses to send Internet Protocols.
 "headset": The device you are running the game on.
-"I", "we", "us", "our" and "Fishy Games": The developer(s).
-"services", "game": Games/services developed and published by Doodle Studios
+"I", "we", "us", "our" and "Toastery Studios": The developer(s).
+"services", "game": Games/services developed and published by Toastery Studios
 
 2. DATA COLLECTION
 
